@@ -1,13 +1,13 @@
 <h1 align="center">Hi! I'm Stephen.</h1>
 <h3 align="center">Computer Scientist, Software Engineer, & Full-Stack Web Developer</h3>
 
-- 🏗️ I’m currently working on [Image Upload App](https://github.com/warnshouse/image-upload-app)
+- 👨‍💻  I’m currently working on [Todo App](https://github.com/warnshouse/table13-project)
 
-- 🧰 I’m currently learning **Node.js**
+- 🧰  I’m currently learning **Node.js**
 
-- 🔗 My personal website (with contact info) is [warns.house](https://www.warns.house)
+- 🔗  My website (with my projects and contact info) is [warns.house](https://www.warns.house)
 
-- 👨‍💻 All of my projects are available at [qwertydeedsdonecheap.com](https://www.qwertydeedsdonecheap.com)
+- 🤝  I’m always looking to meet other devs and collaborate - feel free to say hello!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
