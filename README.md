@@ -1,9 +1,9 @@
 <h1 align="center">Hi! I'm Stephen.</h1>
 <h3 align="center">Computer Scientist, Software Engineer, & Full-Stack Web Developer</h3>
 
-- 👨‍💻  I’m currently working on [Todo App](https://github.com/warnshouse/table13-project)
+- 👨‍💻  I’m currently working on [indiewrestling.promo](https://github.com/warnshouse/indiewrestling.promo)
 
-- 🧰  I’m currently learning **Node.js**
+- 🧰  I’m currently learning **React**
 
 - 🔗  My website (with my projects and contact info) is [warns.house](https://www.warns.house)
 
